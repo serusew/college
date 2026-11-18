@@ -1,0 +1,14 @@
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0-windows\ConsoleApp12.exe
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0-windows\ConsoleApp12.deps.json
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0-windows\ConsoleApp12.runtimeconfig.json
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0-windows\ConsoleApp12.dll
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\bin\Debug\net8.0-windows\ConsoleApp12.pdb
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0-windows\ConsoleApp12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0-windows\ConsoleApp12.AssemblyInfoInputs.cache
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0-windows\ConsoleApp12.AssemblyInfo.cs
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0-windows\ConsoleApp12.csproj.CoreCompileInputs.cache
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0-windows\ConsoleApp12.dll
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0-windows\refint\ConsoleApp12.dll
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0-windows\ConsoleApp12.pdb
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0-windows\ConsoleApp12.genruntimeconfig.cache
+C:\Users\Студент\source\repos\ConsoleApp12\ConsoleApp12\obj\Debug\net8.0-windows\ref\ConsoleApp12.dll
