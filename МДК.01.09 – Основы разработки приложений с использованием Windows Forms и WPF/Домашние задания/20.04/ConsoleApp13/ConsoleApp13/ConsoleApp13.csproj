@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<OutputType>WinExe</OutputType>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+	</PropertyGroup>
+
+	<ItemGroup>
+	  <Compile Include="C:\Users\Студент\Desktop\виндоус форм\ВВВыданно 20.04.2026 Урок №11-12 приложение journal\Program4.cs" Link="Program4.cs" />
+	</ItemGroup>
+
+</Project>
